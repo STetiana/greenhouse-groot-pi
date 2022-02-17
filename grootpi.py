@@ -11,6 +11,7 @@ import adafruit_mcp3xxx.mcp3008 as MCP
 from adafruit_mcp3xxx.analog_in import AnalogIn
 import adafruit_dht
 
+# change to your endpoint 
 endpoint = "xxxxxxxxxxxxxx-ats.iot.eu-central-1.amazonaws.com"
 root = "certificate/AmazonRootCA1.pem"
 certificate = "certificate/certificate.pem.crt"

@@ -70,19 +70,19 @@ Below you can see the functionality, structure scheme as well as wiring diagramm
 
 <p align="center">
   <a href="https://github.com/STetiana/greenhouse-groot-pi">
-    <img src="assets/functionality_scheme.png" alt="Logo" width="720" height="1280">
+    <img src="assets/functionality_scheme.png" alt="Logo" width="1481" height="765">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/STetiana/greenhouse-groot-pi">
-    <img src="assets/structure_scheme.png" alt="Logo" width="720" height="1280">
+    <img src="assets/structure_scheme.png" alt="Logo" width="1489" height="787">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/STetiana/greenhouse-groot-pi">
-    <img src="assets/wiring_diagram.png" alt="Logo" width="720" height="1280">
+    <img src="assets/wiring_diagram.png" alt="Logo" width="1413" height="781">
   </a>
 </p>
 
